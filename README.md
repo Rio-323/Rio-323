@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Rio-323
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Rio-323/Rio-323 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/java-FF81F9?style=flat-square"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rio-323)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rio-323)
