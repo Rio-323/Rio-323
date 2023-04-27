@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
+<br><hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rio-323&layout=compact)](https://github.com/Rio-323/github-readme-stats)
 ![Rio-323's github stats](https://github-readme-stats.vercel.app/api?username=Rio-323&show_icons=true)
