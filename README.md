@@ -36,7 +36,7 @@
   <br>
   <br>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rio-323&show_icons=true&theme=radical) <br>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rio-323&show_icons=true&theme=radical)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rio-323&layout=compact)](https://github.com/Rio-323/github-readme-stats)
 </div>
